@@ -1,0 +1,15 @@
+title: "Shalini M N"
+description: "Embedded Systems Engineer Portfolio"
+remote_theme: "jeffreytse/jekyll-theme-yat"
+
+plugins:
+  - jekyll-remote-theme
+
+# Basic settings
+markdown: kramdown
+highlighter: rouge
+
+# Optional custom settings
+author:
+  name: "Shalini"
+  bio: "Embedded Developer | C/C++ | SPI/I2C/UART | Firmware | Sensors"
